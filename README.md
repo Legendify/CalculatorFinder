@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://github.com/ArtinMoghadasi/CalculatorBot/blob/main/CalculatorBot.png" height="300" width="300"/></p>
-<h1 align="center"> <a href="https://www.t.me/CalculatorLegendBot"> Calculator Bot </a> </h1>
-<h3 align="center"> Calculator Telegram Bot to find weather, time and calculate math expressions on Telegram</h3>
+<h1 align="center"> <a href="https://www.t.me/CalculatorLegendBot"> Calculator - Finder Bot </a> </h1>
+<h3 align="center"> Calculator - Finder Telegram Bot to find weather, time and calculate math expressions on Telegram</h3>
 <h3> Description </h3>
 To use this bot you should have telegram account and its application on your device.
 If you do not have this application. <a href="https://telegram.org/apps"> Download it here </a>

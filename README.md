@@ -11,9 +11,9 @@ Then Login/Sign Up to your accout with your phone number.
 2- After that, click on the first result and start the bot. </br>
 3- Then, you can see a description about how you can use the bot and send your math expression.
 
-<h3> Join my Telegram Channels to get news of my bots and projects</h3>
+<!-- <h3> Join my Telegram Channels to get news of my bots and projects</h3>
 <a href="https://www.t.me/NullLegend01"> Null Legend Telegram Channel </a> </br>
-<a href="https://www.t.me/BotsUpdatesNews"> Bots Updates News Telegram Channel </a>
+<a href="https://www.t.me/BotsUpdatesNews"> Bots Updates News Telegram Channel </a> -->
 
 <h3> My Socials & Links are available on this landing page </h3>
 <a href="https://www.zil.ink/ArtinMoghadasi">MY SOCIAL MEDIAS</a> 

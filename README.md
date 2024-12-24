@@ -2,21 +2,21 @@
 <h1 align="center"> <a href="https://www.t.me/CalculatorLegendBot"> Calculator - Finder Bot </a> </h1>
 <h3 align="center"> Calculator - Finder Telegram Bot to find weather, time and calculate math expressions on Telegram</h3>
 <h3> Description </h3>
-To use this bot you should have telegram account and its application on your device.
-If you do not have this application. <a href="https://telegram.org/apps"> Download it here </a>
-Then Login/Sign Up to your accout with your phone number.
+To use this bot you should have a Telegram account and its application on your device.
+You do not have this application? <a href="https://telegram.org/apps"> Download it here </a>
+Then follow the steps to Login (or Sign up) with your Telegram account using your phone number.
 
 <h3> Follow these steps to start the bot </h3>
-1- On the search bar type CalculatorVEGBot </br>
-2- After that, click on the first result and start the bot. </br>
-3- Then, you can see a description about how you can use the bot and send your math expression.
+1- On the search bar type Calculator - Finder Bot </br>
+2- After that, click on the result with the mentioned profile and start the bot. </br>
+3- Then, you can use these apps via the bot: </br>
+Weather Bot - Timezone Info App - Simple Calculator
 
-<!-- <h3> Join my Telegram Channels to get news of my bots and projects</h3>
-<a href="https://www.t.me/NullLegend01"> Null Legend Telegram Channel </a> </br>
-<a href="https://www.t.me/BotsUpdatesNews"> Bots Updates News Telegram Channel </a> -->
+<!-- <h3> Join my Telegram Channels to get the news of my bots and projects</h3>
+<a href="https://www.t.me/LegendCoders"> Legend Coders Telegram Channel </a> </br>
 
 <h3> My Socials & Links are available on this landing page </h3>
-<a href="https://www.zil.ink/ArtinMoghadasi">MY SOCIAL MEDIAS</a> 
+<a href="https://www.zil.ink/ArtinMoghadasi">MY SOCIAL MEDIA</a> 
 
 
 
